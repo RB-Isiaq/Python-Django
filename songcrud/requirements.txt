@@ -1,0 +1,4 @@
+/usr/bin/bash: w: command not found
+Django==4.1.2
+sqlparse==0.4.3
+tzdata==2022.5
